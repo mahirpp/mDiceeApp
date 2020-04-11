@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">DiceeApp</string>
+    <string name="app_name">I Am Poor</string>
+    <string name="i_am_poor">I am Poor!!!</string>
+    <string name="button">Roll</string>
+
+    <string name="leftDiceImage">Left Dice Image</string>
+    <string name="rightDiceImage">Right Dice Image</string>
+    <string name="dice_app_logo">Dice App Logo</string>
 </resources>
